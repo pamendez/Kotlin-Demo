@@ -1,0 +1,14 @@
+# Kotlin modules
+META-INF
+*.kotlin_module
+
+# Kotlin/JVM binary files
+*.class
+*.jar
+
+# Kotlin/Native binary files
+*.klib
+*.kexe
+
+# Kotlin/JS binary files
+*.js
