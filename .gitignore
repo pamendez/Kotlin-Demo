@@ -5,6 +5,7 @@ META-INF
 # Kotlin/JVM binary files
 *.class
 *.jar
+output
 
 # Kotlin/Native binary files
 *.klib
