@@ -13,3 +13,6 @@ output
 
 # Kotlin/JS binary files
 *.js
+
+# IntelliJ IDEA Config Files
+.idea
